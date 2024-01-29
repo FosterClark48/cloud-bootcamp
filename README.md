@@ -4,4 +4,4 @@
   <img src="img/cloud_computing_bootcamp.png" width="500px">
 </p>
 
-### Learning multi-cloud development through hands-on practices
+<h3 align="center">Learning multi-cloud development through hands-on practices</h3>
