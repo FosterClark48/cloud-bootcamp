@@ -4,14 +4,13 @@
 
 <h3 align="center">Attention: use the video below as a technical summary to speed up the implementation of part 1 of the project</h3>
 
+
 <div style="position: relative;">
-  <div style="position: relative;">
     <video playsinline="" controls="" preload="metadata" src="https://file.notion.so/f/f/0d1b678b-cd91-4256-93c7-73b2e82396d5/9be3ea9d-c1d6-41a0-8008-89a946a53569/ICP_EN_MISSAO1_COMPLEMENTO.mp4?id=12de7d98-de92-41b9-9aec-59a4820c844e&amp;table=block&amp;spaceId=0d1b678b-cd91-4256-93c7-73b2e82396d5&amp;expirationTimestamp=1706767200000&amp;signature=CJtYUWu5JoXZiEUd0jMLm1288Caz3sklGgZz9m0sqF4" style="display: block; pointer-events: none; width: 100%; background-color: rgba(255, 255, 255, 0.03);">
     </video>
     <div style="position: absolute; inset: 0px; display: flex; align-items: center; justify-content: center; cursor: pointer;">
     </div>
   </div>
-</div>
 
 <h2 align="center">Steps in Amazon Web Services (AWS)</h2>
 
